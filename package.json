@@ -1,0 +1,26 @@
+{
+  "name": "ex-hbs-sqlz",
+  "version": "1.0.0",
+  "description": "Base level repo with Express, Handlebars, Sequelize, Bootstrap",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fleetwood/ex-hbs-sqlz.git"
+  },
+  "keywords": [
+    "Node",
+    "Express",
+    "Handelbars",
+    "Sequelize",
+    "Bootstrap"
+  ],
+  "author": "Fleetwood",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/fleetwood/ex-hbs-sqlz/issues"
+  },
+  "homepage": "https://github.com/fleetwood/ex-hbs-sqlz#readme"
+}
